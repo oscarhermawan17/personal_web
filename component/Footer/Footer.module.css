@@ -1,0 +1,13 @@
+.footerContainer {
+  position: relative;
+} 
+
+.footer {
+  position: absolute;
+  top: 100px;
+  width: 100%;
+  padding: 10px 100px;
+  text-align: center;
+  color: antiquewhite;
+  background-color: #343a40;
+}

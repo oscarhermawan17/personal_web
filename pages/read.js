@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
       <main>
         <Navbar />
-        <Content page={'home'} />
+        <Content page={'read'}/>
       </main>
       <Footer />
     </>

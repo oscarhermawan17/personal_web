@@ -1,0 +1,20 @@
+.navbar {
+  width: 100%;
+  background-color: black;
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.navbar li {
+  color: gainsboro;
+  display: inline;
+}
+
+.navbar li:hover {
+  color: black;
+  background-color: white;
+}
+
+.testing {
+  margin-top:200px;
+}
